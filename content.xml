@@ -1,0 +1,1471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026050110462077XEZZ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260501104620Y8C86S</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Mensajeros del Espíritu: descubriendo Pentecostés y sus dones</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777625171371</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-momo4oi4-av5343w7e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momo4oi4-av5343w7e</odePageId>
+      <odeBlockId>block-1777563744158-9wjt8l2y8</odeBlockId>
+      <blockName>Presentación y descripción del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oi4-av5343w7e</odePageId>
+          <odeBlockId>block-1777563744158-9wjt8l2y8</odeBlockId>
+          <odeIdeviceId>idevice-1777563744157-3vudmv97q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto vas a descubrir qué ocurrió en Pentecostés, cuando el Espíritu Santo descendió sobre los apóstoles, y qué significado tiene hoy en nuestra vida.</p>
+<p>Trabajarás en equipo y participarás en actividades dinámicas para conocer los dones del Espíritu Santo y cómo podemos aplicarlos en nuestro día a día.</p>
+<p>Además, utilizarás herramientas digitales como Kahoot para crear, junto a tu grupo, un juego con preguntas sobre lo aprendido.</p>
+<p>Este proyecto está pensado para alumnado de 5º de Primaria en la asignatura de Religión y lo realizaremos durante el mes de mayo en dos sesiones.</p>
+<p>En la primera sesión conocerás el relato de Pentecostés y trabajarás los dones en grupo. En la segunda, crearás preguntas y participarás en un juego con toda la clase.</p>
+<p>El objetivo es que comprendas mejor el significado de Pentecostés, conozcas los dones del Espíritu Santo y seas capaz de relacionarlos con tu vida diaria, aprendiendo de forma activa y participativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777563744157-3vudmv97q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto vas a descubrir qué ocurrió en Pentecostés, cuando el Espíritu Santo descendió sobre los apóstoles, y qué significado tiene hoy en nuestra vida.</p>\n<p>Trabajarás en equipo y participarás en actividades dinámicas para conocer los dones del Espíritu Santo y cómo podemos aplicarlos en nuestro día a día.</p>\n<p>Además, utilizarás herramientas digitales como Kahoot para crear, junto a tu grupo, un juego con preguntas sobre lo aprendido.</p>\n<p>Este proyecto está pensado para alumnado de 5º de Primaria en la asignatura de Religión y lo realizaremos durante el mes de mayo en dos sesiones.</p>\n<p>En la primera sesión conocerás el relato de Pentecostés y trabajarás los dones en grupo. En la segunda, crearás preguntas y participarás en un juego con toda la clase.</p>\n<p>El objetivo es que comprendas mejor el significado de Pentecostés, conozcas los dones del Espíritu Santo y seas capaz de relacionarlos con tu vida diaria, aprendiendo de forma activa y participativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momo4oig-uhe02yl1j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué vamos a aprender?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momo4oig-uhe02yl1j</odePageId>
+      <odeBlockId>block-1777564314783-8dxklke18</odeBlockId>
+      <blockName>Objetivos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oig-uhe02yl1j</odePageId>
+          <odeBlockId>block-1777564314783-8dxklke18</odeBlockId>
+          <odeIdeviceId>idevice-1777564314782-c0bi5v7la</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>El relato bíblico de Pentecostés.</li>
+<li>El significado de la llegada del Espíritu Santo.</li>
+<li>Los dones del Espíritu Santo y su significado.</li>
+<li>La relación entre estos dones y la vida cotidiana de las personas.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777564314782-c0bi5v7la","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>El relato bíblico de Pentecostés.</li>\n<li>El significado de la llegada del Espíritu Santo.</li>\n<li>Los dones del Espíritu Santo y su significado.</li>\n<li>La relación entre estos dones y la vida cotidiana de las personas.<br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momo4oii-j1exajgbl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades del proyecto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momo4oii-j1exajgbl</odePageId>
+      <odeBlockId>block-1777565866350-rx6aqc9uk</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oii-j1exajgbl</odePageId>
+          <odeBlockId>block-1777565866350-rx6aqc9uk</odeBlockId>
+          <odeIdeviceId>idevice-1777565866345-cyhbydme6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto las actividades están organizadas en diferentes sesiones y se desarrollan de forma progresiva.<br />Todas ellas se encuentran recogidas en el siguiente espacio interactivo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777565866345-cyhbydme6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto las actividades están organizadas en diferentes sesiones y se desarrollan de forma progresiva.<br />Todas ellas se encuentran recogidas en el siguiente espacio interactivo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momo4oii-j1exajgbl</odePageId>
+      <odeBlockId>block-1777565940417-98zqlhsns</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oii-j1exajgbl</odePageId>
+          <odeBlockId>block-1777565940417-98zqlhsns</odeBlockId>
+          <odeIdeviceId>idevice-1777565940416-in2922hrv</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/blancaamolii/mensajeros-del-espiritu-descubriendo-pentecostes-y-sus-dones-raegxt71sr8tcski" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momo4oii-j1exajgbl</odePageId>
+      <odeBlockId>block-1777566090237-iiyvfz4me</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oii-j1exajgbl</odePageId>
+          <odeBlockId>block-1777566090237-iiyvfz4me</odeBlockId>
+          <odeIdeviceId>idevice-1777566090235-9mcsq6bih</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La siguiente línea temporal organiza las actividades del proyecto por sesiones, mostrando su secuenciación y progresión.</p>
+<p><img src="{{context_path}}/content/resources/Línea temporal de actividades.png" title="Línea temporal de actividades" width="1280" height="720" alt="Organización secuencial de las actividades" /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777566090235-9mcsq6bih","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La siguiente línea temporal organiza las actividades del proyecto por sesiones, mostrando su secuenciación y progresión.</p>\n<p><img src=\"{{context_path}}/content/resources/Línea temporal de actividades.png\" title=\"Línea temporal de actividades\" width=\"1280\" height=\"720\" alt=\"Organización secuencial de las actividades\" /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momo4oil-ea824i7ns</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nuestro reto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro reto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro reto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momo4oil-ea824i7ns</odePageId>
+      <odeBlockId>block-1777567839315-4xuqup1f6</odeBlockId>
+      <blockName>Reto final: Mensajeros del Espíritu</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oil-ea824i7ns</odePageId>
+          <odeBlockId>block-1777567839315-4xuqup1f6</odeBlockId>
+          <odeIdeviceId>idevice-1777567839310-eynk9tb64</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p>¿Te imaginas crear tu propio juego para enseñar a otros lo que has aprendido?</p>
+<p>En este proyecto te convertirás en un auténtico mensajero, creando un cuestionario digital sobre el Pentecostés y los dones del Espíritu Santo para que tus compañeros puedan aprender jugando</p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>Tu misión será crear, en grupo, un cuestionario en Kahoot!.</p>
+<p>Para ello deberás:</p>
+<ol>
+<li>Elaborar preguntas sobre el Pentecostés</li>
+<li>Incluir los dones del Espíritu Santo</li>
+<li>Pensar bien las respuestas (correctas e incorrectas)</li>
+<li>Diseñar un juego divertido para tus compañeros</li>
+<li>Una vez terminado, pondréis en práctica vuestro Kahoot en clase.</li>
+</ol>
+                    </div>
+                    
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1777567839310-eynk9tb64","typeGame":"Case study","history":"<p>¿Te imaginas crear tu propio juego para enseñar a otros lo que has aprendido?</p>\n<p>En este proyecto te convertirás en un auténtico mensajero, creando un cuestionario digital sobre el Pentecostés y los dones del Espíritu Santo para que tus compañeros puedan aprender jugando</p>","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","activities":[{"activity":"<p>Tu misión será crear, en grupo, un cuestionario en Kahoot!.</p>\n<p>Para ello deberás:</p>\n<ol>\n<li>Elaborar preguntas sobre el Pentecostés</li>\n<li>Incluir los dones del Espíritu Santo</li>\n<li>Pensar bien las respuestas (correctas e incorrectas)</li>\n<li>Diseñar un juego divertido para tus compañeros</li>\n<li>Una vez terminado, pondréis en práctica vuestro Kahoot en clase.</li>\n</ol>","feedback":"","buttonCaption":"Mostrar retroalimentación"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momo4oim-avqbs7tw2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos y herramientas</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos y herramientas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos y herramientas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momo4oim-avqbs7tw2</odePageId>
+      <odeBlockId>block-1777568278415-y66ugl7c7</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oim-avqbs7tw2</odePageId>
+          <odeBlockId>block-1777568278415-y66ugl7c7</odeBlockId>
+          <odeIdeviceId>idevice-1777568278413-g1cw5gncs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sección se recogen los recursos y herramientas necesarios para el desarrollo del proyecto, organizados de forma clara y accesible.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777568278413-g1cw5gncs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sección se recogen los recursos y herramientas necesarios para el desarrollo del proyecto, organizados de forma clara y accesible.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momo4oim-avqbs7tw2</odePageId>
+      <odeBlockId>block-1777568331055-954hbn5uf</odeBlockId>
+      <blockName>Recursos para el alumnado (Padlet)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oim-avqbs7tw2</odePageId>
+          <odeBlockId>block-1777568331055-954hbn5uf</odeBlockId>
+          <odeIdeviceId>idevice-1777568331054-dx5zsqhb4</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/blancaamolii/mensajeros-del-espiritu-descubriendo-pentecostes-y-sus-dones-raegxt71sr8tcski" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momo4oim-avqbs7tw2</odePageId>
+      <odeBlockId>block-1777568378509-1dvb7vnv6</odeBlockId>
+      <blockName>Recursos para el profesorado (Symbaloo)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oim-avqbs7tw2</odePageId>
+          <odeBlockId>block-1777568378509-1dvb7vnv6</odeBlockId>
+          <odeIdeviceId>idevice-1777568378508-p8muk76su</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://www.symbaloo.com/shared/AAAAAwrZtH8AA41_W3Mqpg==" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momo4oiq-3i511quh8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Cómo te voy a evaluar?</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo te voy a evaluar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo te voy a evaluar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momo4oiq-3i511quh8</odePageId>
+      <odeBlockId>block-1777569108125-fv3sb8pt5</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oiq-3i511quh8</odePageId>
+          <odeBlockId>block-1777569108125-fv3sb8pt5</odeBlockId>
+          <odeIdeviceId>idevice-1777569108120-bqc7h7mbz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación de este proyecto tendrá en cuenta tanto el proceso de aprendizaje como el producto final.</p>
+<p>Se valorará la participación, el trabajo en equipo y la comprensión de los contenidos trabajados a lo largo de las actividades.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777569108120-bqc7h7mbz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación de este proyecto tendrá en cuenta tanto el proceso de aprendizaje como el producto final.</p>\n<p>Se valorará la participación, el trabajo en equipo y la comprensión de los contenidos trabajados a lo largo de las actividades.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momo4oiq-3i511quh8</odePageId>
+      <odeBlockId>block-1777569164815-4j3cjok7q</odeBlockId>
+      <blockName>Relación entre actividades y criterios</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oiq-3i511quh8</odePageId>
+          <odeBlockId>block-1777569164815-4j3cjok7q</odeBlockId>
+          <odeIdeviceId>idevice-1777569164813-lfip8qthp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="2" style="width: 100.068%; height: 287.4px;">
+<tbody>
+<tr style="height: 32.8px;">
+<td style="width: 50.0679%; height: 32.8px; text-align: center;"><strong>TAREAS</strong></td>
+<td style="width: 50.0679%; height: 32.8px; text-align: center;"><strong>CRITERIOS DE EVALUACIÓN</strong></td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 50.0679%; height: 32.8px;">Lectura y comprensión del Pentecostés</td>
+<td style="width: 50.0679%; height: 32.8px;">5.1, 6.1</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 50.0679%; height: 32.8px;">Visualización y reflexión del vídeo</td>
+<td style="width: 50.0679%; height: 32.8px;">1.1, 6.1</td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 50.0679%; height: 56.8px;">Trabajo sobre los dones del Espíritu Santo</td>
+<td style="width: 50.0679%; height: 56.8px;">3.1, 6.1</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 50.0679%; height: 32.8px;">Trabajo cooperativo en grupo</td>
+<td style="width: 50.0679%; height: 32.8px;">3.2</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 50.0679%; height: 32.8px;">Exposición oral</td>
+<td style="width: 50.0679%; height: 32.8px;">1.2, 3.2</td>
+</tr>
+<tr style="height: 33.8px;">
+<td style="width: 50.0679%; height: 33.8px;">Creación del Kahoot</td>
+<td style="width: 50.0679%; height: 33.8px;">2.1, 2.2, 3.2</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 50.0679%; height: 32.8px;">Participación en el Kahoot</td>
+<td style="width: 50.0679%; height: 32.8px;">2.2, 3.2</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777569164813-lfip8qthp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"2\" style=\"width: 100.068%; height: 287.4px;\">\n<tbody>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 50.0679%; height: 32.8px; text-align: center;\"><strong>TAREAS</strong></td>\n<td style=\"width: 50.0679%; height: 32.8px; text-align: center;\"><strong>CRITERIOS DE EVALUACIÓN</strong></td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 50.0679%; height: 32.8px;\">Lectura y comprensión del Pentecostés</td>\n<td style=\"width: 50.0679%; height: 32.8px;\">5.1, 6.1</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 50.0679%; height: 32.8px;\">Visualización y reflexión del vídeo</td>\n<td style=\"width: 50.0679%; height: 32.8px;\">1.1, 6.1</td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 50.0679%; height: 56.8px;\">Trabajo sobre los dones del Espíritu Santo</td>\n<td style=\"width: 50.0679%; height: 56.8px;\">3.1, 6.1</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 50.0679%; height: 32.8px;\">Trabajo cooperativo en grupo</td>\n<td style=\"width: 50.0679%; height: 32.8px;\">3.2</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 50.0679%; height: 32.8px;\">Exposición oral</td>\n<td style=\"width: 50.0679%; height: 32.8px;\">1.2, 3.2</td>\n</tr>\n<tr style=\"height: 33.8px;\">\n<td style=\"width: 50.0679%; height: 33.8px;\">Creación del Kahoot</td>\n<td style=\"width: 50.0679%; height: 33.8px;\">2.1, 2.2, 3.2</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 50.0679%; height: 32.8px;\">Participación en el Kahoot</td>\n<td style=\"width: 50.0679%; height: 32.8px;\">2.2, 3.2</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momo4oiq-3i511quh8</odePageId>
+      <odeBlockId>block-1777569512406-onll50xf9</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oiq-3i511quh8</odePageId>
+          <odeBlockId>block-1777569512406-onll50xf9</odeBlockId>
+          <odeIdeviceId>idevice-1777569512403-bt4pi57me</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar el aprendizaje se utilizarán los siguientes instrumentos:</p>
+<ul>
+<li>Rúbrica de exposición oral</li>
+<li>Diana de autoevaluación del trabajo en grupo</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777569512403-bt4pi57me","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar el aprendizaje se utilizarán los siguientes instrumentos:</p>\n<ul>\n<li>Rúbrica de exposición oral</li>\n<li>Diana de autoevaluación del trabajo en grupo</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momo4oiq-3i511quh8</odePageId>
+      <odeBlockId>block-1777569568443-56prmjhbg</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oiq-3i511quh8</odePageId>
+          <odeBlockId>block-1777569568443-56prmjhbg</odeBlockId>
+          <odeIdeviceId>idevice-1777569568442-7ataea7jp</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777569568442-7ataea7jp%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Comprensi%F3n%20del%20contenido%22%2C%22Aplicaci%F3n%20a%20la%20vida%22%2C%22Expresi%F3n%20oral%22%2C%22Uso%20herramienta%20digital%22%2C%22Trabajo%20en%20grupo%22%5D%2C%22scores%22%3A%5B%22Nivel%201%22%2C%22Nivel%202%22%2C%22Nivel%203%22%2C%22Nivel%204%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20comprende%20el%20contenido%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Explicaci%F3n%20parcial%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Explica%20el%20don%20correctamente%20%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Explica%20el%20don%20con%20claridad%20y%20profundidad%22%7D%5D%2C%5B%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20relaciona%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Ejemplos%20poco%20claros%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Relaciona%20con%20alg%FAn%20ejemplo%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Relaciona%20con%20ejemplos%20claros%20y%20reales%22%7D%5D%2C%5B%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20se%20entiende%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Dificultades%20de%20expresi%F3n%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Se%20expresa%20correctamente%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Habla%20con%20claridad%2C%20seguridad%20y%20orden%22%7D%5D%2C%5B%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20usa%20o%20mal%20uso%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Poco%20elaborada%20%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Presentaci%F3n%20correcta%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Presentaci%F3n%20muy%20clara%20y%20atractiva%22%7D%5D%2C%5B%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22XNo%20hay%20cooperaci%F3n%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22XParticipaci%F3n%20desigual%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22XParticipaci%F3n%20mayoritaria%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22XTodos%20participan%20de%20forma%20equilibrada%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Comprensi%F3n%20del%20contenido%22%2C%22Aplicaci%F3n%20a%20la%20vida%22%2C%22Expresi%F3n%20oral%22%2C%22Uso%20herramienta%20digital%22%2C%22Trabajo%20en%20grupo%22%5D%2C%22scores%22%3A%5B%22Nivel%201%22%2C%22Nivel%202%22%2C%22Nivel%203%22%2C%22Nivel%204%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20comprende%20el%20contenido%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Explicaci%F3n%20parcial%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Explica%20el%20don%20correctamente%20%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Explica%20el%20don%20con%20claridad%20y%20profundidad%22%7D%5D%2C%5B%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20relaciona%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Ejemplos%20poco%20claros%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Relaciona%20con%20alg%FAn%20ejemplo%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Relaciona%20con%20ejemplos%20claros%20y%20reales%22%7D%5D%2C%5B%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20se%20entiende%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Dificultades%20de%20expresi%F3n%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Se%20expresa%20correctamente%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Habla%20con%20claridad%2C%20seguridad%20y%20orden%22%7D%5D%2C%5B%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20usa%20o%20mal%20uso%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Poco%20elaborada%20%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22Presentaci%F3n%20correcta%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Presentaci%F3n%20muy%20clara%20y%20atractiva%22%7D%5D%2C%5B%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22XNo%20hay%20cooperaci%F3n%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22XParticipaci%F3n%20desigual%22%7D%2C%7B%22weight%22%3A%221.50%22%2C%22text%22%3A%22XParticipaci%F3n%20mayoritaria%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22XTodos%20participan%20de%20forma%20equilibrada%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22author%22%3A%22Blanca%20Molina%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship"><span class="author">Blanca Molina</span>. <span class="title"><em>Rúbrica de ejemplo (4x4)</em></span> </p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momo4oiu-4fanygn7z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Uso responsable y protección de datos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Uso responsable y protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Uso responsable y protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momo4oiu-4fanygn7z</odePageId>
+      <odeBlockId>block-1777577949781-ikcrrakrd</odeBlockId>
+      <blockName>PROTEGE TUS DATOS EN EL MUNDO DIGITAL</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oiu-4fanygn7z</odePageId>
+          <odeBlockId>block-1777577949781-ikcrrakrd</odeBlockId>
+          <odeIdeviceId>idevice-1777577949776-2ugokrz5g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el entorno digital, cada acción deja huella. La información que compartimos, cómo nos mostramos y con quién interactuamos forma parte de nuestra identidad digital.</p>
+<p>Antes de continuar, observa con atención la siguiente infografía, donde encontrarás recomendaciones clave para navegar, crear y comunicarte de forma segura en Internet.</p>
+<p><img src="{{context_path}}/content/resources/White Simple How to Learn Faster Infographic.png" width="800" height="2000" alt="Infografía sobre el uso responsable y protección de datos" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777577949776-2ugokrz5g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el entorno digital, cada acción deja huella. La información que compartimos, cómo nos mostramos y con quién interactuamos forma parte de nuestra identidad digital.</p>\n<p>Antes de continuar, observa con atención la siguiente infografía, donde encontrarás recomendaciones clave para navegar, crear y comunicarte de forma segura en Internet.</p>\n<p><img src=\"{{context_path}}/content/resources/White Simple How to Learn Faster Infographic.png\" width=\"800\" height=\"2000\" alt=\"Infografía sobre el uso responsable y protección de datos\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momo4oix-81hws08ho</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momo4oix-81hws08ho</odePageId>
+      <odeBlockId>block-1777579318240-w8ix4gsa3</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oix-81hws08ho</odePageId>
+          <odeBlockId>block-1777579318240-w8ix4gsa3</odeBlockId>
+          <odeIdeviceId>idevice-1777579318234-t716fl2rp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta guía didáctica recoge los aspectos fundamentales que orientan el desarrollo de la unidad en eXeLearning, concretando lo que se espera que el alumnado aprenda y cómo se valorará su progreso. A través de ella se establecen los referentes para la evaluación del proceso de enseñanza-aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777579318234-t716fl2rp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta guía didáctica recoge los aspectos fundamentales que orientan el desarrollo de la unidad en eXeLearning, concretando lo que se espera que el alumnado aprenda y cómo se valorará su progreso. A través de ella se establecen los referentes para la evaluación del proceso de enseñanza-aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-momo4oix-81hws08ho</odePageId>
+      <odeBlockId>block-1777579338975-0xamr9xd0</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oix-81hws08ho</odePageId>
+          <odeBlockId>block-1777579338975-0xamr9xd0</odeBlockId>
+          <odeIdeviceId>idevice-1777579338975-ffem357yo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Identifica y narra correctamente el relato bíblico de Pentecostés, reconociendo sus elementos principales.</li>
+<li>Explica de forma comprensible el significado de la llegada del Espíritu Santo en el contexto cristiano.</li>
+<li>Reconoce y enumera los dones del Espíritu Santo, comprendiendo su significado básico.</li>
+<li>Establece relaciones sencillas entre los dones del Espíritu Santo y situaciones de la vida cotidiana.</li>
+<li>Aplica los contenidos trabajados en actividades digitales, mostrando comprensión y participación activa en el entorno eXeLearning.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777579338975-ffem357yo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Identifica y narra correctamente el relato bíblico de Pentecostés, reconociendo sus elementos principales.</li>\n<li>Explica de forma comprensible el significado de la llegada del Espíritu Santo en el contexto cristiano.</li>\n<li>Reconoce y enumera los dones del Espíritu Santo, comprendiendo su significado básico.</li>\n<li>Establece relaciones sencillas entre los dones del Espíritu Santo y situaciones de la vida cotidiana.</li>\n<li>Aplica los contenidos trabajados en actividades digitales, mostrando comprensión y participación activa en el entorno eXeLearning.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-momo4oiy-pomdivaku</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-momo4oiy-pomdivaku</odePageId>
+      <odeBlockId>block-1777578664357-0jl3vvlti</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-momo4oiy-pomdivaku</odePageId>
+          <odeBlockId>block-1777578664357-0jl3vvlti</odeBlockId>
+          <odeIdeviceId>idevice-1777578664355-md0upsyl7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autoría: Blanca Molina Fernández</p>
+<p>Título del proyecto: Mensajeros del Espíritu: descubriendo Pentecostés y sus dones</p>
+<p>Nivel educativo: 5º de Educación Primaria</p>
+<p>Herramientas utilizadas: eXeLearning, Padlet, Kahoot!, Symbaloo</p>
+<p>Licencia: Creative Commons (CC BY-SA)</p>
+<p>Descripción: Proyecto educativo (SdA) para el área de Religión Católica centrado en el aprendizaje del Pentecostés y los dones del Espíritu Santo mediante metodologías activas y herramientas digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777578664355-md0upsyl7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: Blanca Molina Fernández</p>\n<p>Título del proyecto: Mensajeros del Espíritu: descubriendo Pentecostés y sus dones</p>\n<p>Nivel educativo: 5º de Educación Primaria</p>\n<p>Herramientas utilizadas: eXeLearning, Padlet, Kahoot!, Symbaloo</p>\n<p>Licencia: Creative Commons (CC BY-SA)</p>\n<p>Descripción: Proyecto educativo (SdA) para el área de Religión Católica centrado en el aprendizaje del Pentecostés y los dones del Espíritu Santo mediante metodologías activas y herramientas digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
